@@ -1,0 +1,5 @@
+requests
+pypdf
+streamlit
+fastmcp
+google-generativeai
